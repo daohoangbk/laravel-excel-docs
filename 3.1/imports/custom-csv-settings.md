@@ -45,6 +45,12 @@ public function getCsvSettings(): array
 
 * `delimiter`
 * `enclosure`
+* `line_ending`
+* `use_bom`
+* `include_separator_line`
+* `excel_compatibility`
 * `escape_character`
 * `contiguous`
 * `input_encoding`
+* `output_encoding`
+
